@@ -14,3 +14,4 @@ Note: No personnel information is showcased in the data.
 3. A Decision Tree model is applied on the data to find out if a booking will be canceled or not. 
 4. Model evaluation. 
 
+The project was done in Jupyter Notebook.
