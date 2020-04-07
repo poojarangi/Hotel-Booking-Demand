@@ -15,3 +15,9 @@ Note: No personnel information is showcased in the data.
 4. Model evaluation. 
 
 The project was done in Jupyter Notebook.
+
+## Model Evaluation
+
+* The classification rate for the tree model is 0.82 oe 82%
+* While there are many ways to evaluate a model, confusion matrix is one of them. It’s a tabular representation of the algorithm. It tells us which classes are misclassified and which are not. Recall can be defined as the ratio of the total number of correctly classified positives divided by the total number of positive examples. High Recall is the class that is correctly recognized (fewer FN).
+* Precision can be calculated by dividing the total True Positives by the total number of predicted positive examples (TP+FP). High Precision means that positive is correctly classified as positive. The F-Measure should be approximately the minimum value of precision or recall.
